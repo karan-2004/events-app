@@ -1,6 +1,3 @@
-#### I still need to implement the liking mechanism in frontend
-#### it would be nice if I could get time until monday(15.04.24). 
-
 ##### I have used mysql database and rest framework for backend. backend is fully finished but still need to implement some mechanisms in frontend where I have used react with vite bundler
 
 
